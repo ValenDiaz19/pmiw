@@ -3,6 +3,8 @@
 //Diaz Valentina Legajo: 119013/7
 //Laguto Vladimir Legajo: 119061/6
 
+//https://youtu.be/zOn1YKXiwQU
+
 
 
 let pantalla = 1; // 1: inicio, 2: instrucciones, 3: minijuego, 4: resultado(ganar o perder), 5: créditos
