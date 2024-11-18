@@ -3,6 +3,8 @@
 //Diaz Valentina Legajo: 119013/7
 //Laguto Vladimir Legajo: 119061/6
 
+//https://youtu.be/U_pSIFEDPRc
+
 let pantallas = []; // Arreglo principal que almacena todas las imágenes
 let pantalla = 0;
 let song;
